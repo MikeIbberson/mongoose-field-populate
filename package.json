@@ -26,6 +26,7 @@
     "q3-test-utils": "^1.0.41"
   },
   "dependencies": {
+    "cachegoose": "^8.0.0",
     "mongoose": "^5.7.12"
   }
 }
