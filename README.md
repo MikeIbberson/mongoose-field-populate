@@ -7,7 +7,7 @@
 
 <h2>Extended Reference</h2>
 
-<p>The embedded reference builder provides a plugin for managing stale data updating as well as a builder for assembling extended references. It auto-syncs the target props on save, so you don't have to worry about matching types, setting projects and more.</p>
+<p>The extended reference builder provides a plugin for managing stale data updating as well as a builder for assembling extended references. It auto-syncs the target props on save, so you don't have to worry about matching types, setting projects and more.</p>
 
 ``` Javascript
   const mongoose = require('mongoose');
