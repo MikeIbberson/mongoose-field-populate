@@ -5,8 +5,7 @@
   "license": "MIT",
   "jest": {
     "testEnvironment": "node",
-    "preset": "q3-test-utils",
-    "rootDir": "lib"
+    "preset": "q3-test-utils"
   },
   "scripts": {
     "test": "jest --collectCoverage",
