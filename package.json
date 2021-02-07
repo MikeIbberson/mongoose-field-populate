@@ -8,7 +8,7 @@
     "preset": "q3-test-utils"
   },
   "scripts": {
-    "test": "jest --collectCoverage",
+    "test": "jest --runInBand --collectCoverage --detectOpenHandles --forceExit",
     "lint": "eslint lib/* --fix"
   },
   "devDependencies": {
