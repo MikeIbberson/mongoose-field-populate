@@ -1,4 +1,4 @@
-const Builder = require('../extendedReference');
+const Builder = require('../../lib/extendedReference');
 
 describe('ExtendedReference', () => {
   describe('static "plugin"', () => {
