@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const { autopopulate } = require('..');
+const { autopopulate } = require('../../lib');
 
 let M;
 let D;

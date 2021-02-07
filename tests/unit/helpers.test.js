@@ -4,7 +4,7 @@ const {
   getSync,
   getSyncPaths,
   appendRef,
-} = require('../helpers');
+} = require('../../lib/helpers');
 
 describe('Helpers', () => {
   describe('"setPrefix"', () => {

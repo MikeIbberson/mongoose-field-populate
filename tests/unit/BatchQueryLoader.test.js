@@ -1,4 +1,4 @@
-const BatchQueryLoader = require('../BatchQueryLoader');
+const BatchQueryLoader = require('../../lib/BatchQueryLoader');
 
 describe('BatchQueryLoader', () => {
   describe('"invokeJson"', () => {
